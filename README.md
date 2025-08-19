@@ -1,4 +1,4 @@
-# DOCAFE – Discount Optimization and Campaign Forecasting Engine
+# Discount and Campaign Optimization Framework (DISCOF)
 A machine learning framework that personalizes discount strategies at the user-product level and forecasts campaign outcomes such as GMV, CVR, and Margin. 
 
 Overview-
